@@ -8,7 +8,7 @@ main()
 {
     float a,b,res;
     char ch;
-    printf("Enter the operator:");
+    printf("Enter the operator::");
     scanf("%c",&ch);
     printf("Enter the two numbers:");
     scanf("%f%f",&a,&b);
