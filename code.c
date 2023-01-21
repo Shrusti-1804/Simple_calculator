@@ -10,7 +10,7 @@ main()
     char ch;
     printf("Enter the operator::");
     scanf("%c",&ch);
-    printf("Enter the two numbers:");
+    printf("Enter the two numbers=");
     scanf("%f%f",&a,&b);
 
     switch(ch)
